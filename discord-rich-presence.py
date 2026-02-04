@@ -86,7 +86,7 @@ RPC.update(
 
     # TEXT SHOWN WHEN HOVERING OVER THE IMAGE
     # Keep it short; long text may be truncated.
-    large_text="5oud3a"
+    large_text="N0ViP"
 )
 
 # ============================================================
