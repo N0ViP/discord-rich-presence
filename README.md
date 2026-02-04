@@ -2,8 +2,9 @@
 
 ## Preview
 
-![Discord Rich Presence Preview](preview.png)
-
+<p align="center">
+  <img src="preview.png" alt="Discord Rich Presence Preview" width="600">
+</p>
 
 > **Important:** This script is intentionally simple, but it is also low-level.
 > **You MUST read the script and its comments carefully before running it.**
