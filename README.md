@@ -1,5 +1,10 @@
 # Discord Rich Presence (Python)
 
+## Preview
+
+![Discord Rich Presence Preview](preview.png)
+
+
 > **Important:** This script is intentionally simple, but it is also low-level.
 > **You MUST read the script and its comments carefully before running it.**
 > Everything you need to configure is explained **inside the file itself**.
